@@ -1,2 +1,3 @@
 # dockerfile-maven-build-env
-Dockerfile describing the build environment, based on the maven-Docker-Image
+
+An image, that's based on the maven repo and extends it with different build tools, like g++ for example.
